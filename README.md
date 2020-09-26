@@ -3,8 +3,8 @@ A simple Bash script to generate a reverse shell (for Penetration Testers and CT
 
 There are 2 versions:
 
-- Revgenit in Italian language;
-- Revgenen in English language;
+- Revgen_it in Italian language;
+- Revgen_en in English language;
 
 Usage:
 
