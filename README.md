@@ -1,5 +1,5 @@
 # REVGEN
-A simple Bash script to generate a reverse shell (for Penetration Tester and CTF Player) 
+A simple Bash script to generate a reverse shell (for Penetration Testers and CTF Players) 
 
 There are 2 versions:
 
