@@ -8,5 +8,5 @@ There are 2 versions:
 
 Usage:
 
-simone@kali:~$ chmod +x revgen.sh
-simone@kali:~$ ./revgen.sh
+- simone@kali:~$ chmod +x revgen.sh
+- simone@kali:~$ ./revgen.sh
